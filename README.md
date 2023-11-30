@@ -25,7 +25,7 @@
 Data Processing:
  - Advanced Excel (Pivot tables, Power Query, Visualization)
  - Python (NumPy, Pandas), Jupyter Notebook
- - SQL
+ - Microsoft SQL Server
 
 Visualization:
  - Power BI (DAX, Data Modelling)
@@ -50,11 +50,14 @@ Visualization:
 #
 
 ### Soft Skills:
+- Analytical skills
 - Attention to Detail
 - Detail-Oriented
 - Problem-Solving
+- Decision Making
 - Presentation Skills
 - Communication skills
+- Presentation skills
 - Teamwork
 -  Leadership
 
