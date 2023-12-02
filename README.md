@@ -18,9 +18,9 @@
 #
 <br>
 <div>
+ 
 <details>
-  <summary><b>⚡ Skills</b></summary>
-
+ <summary><b>⚡ Skills</b></summary>
 ### DATA ANALYSIS
 Data Processing:
  - Advanced Excel (Pivot tables, Power Query, Visualization)
@@ -67,7 +67,7 @@ Visualization:
 #
 
 ###
-<h3 align="center">🔗 Connect with me:</h3>
+<h2 align="center">🔗 Connect with me:</h2>
 
 <div align="center">
   <p align="center"> 
@@ -107,6 +107,7 @@ Visualization:
 <br>
 
 ###
+<h2>📊 GitHub Stats: </h2>
 
 ![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanabdelfatah173&show_icons=true&theme=dark&locale=en&layout=compact)
 
