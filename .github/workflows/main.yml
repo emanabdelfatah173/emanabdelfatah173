@@ -1,3 +1,4 @@
+
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
@@ -30,11 +31,11 @@ jobs:
         id: snake-gif
         with:
           github_user_name: emanabdelfatah173
-          # These next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-     # show the status of the build. Makes it easier to debug (if there are any issues).
+     # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
       # Push the changes
