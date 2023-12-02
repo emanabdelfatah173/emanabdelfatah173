@@ -67,7 +67,7 @@ Visualization:
 #
 
 ###
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 
 <div align="left">
   <p align="left"> 
@@ -80,7 +80,7 @@ Visualization:
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 
 <div align="left">
   <p align="left">
@@ -115,3 +115,6 @@ Visualization:
 
 
 ![snake gif](https://github.com/emanabdelfatah173/emanabdelfatah173/blob/output/github-contribution-grid-snake.gif)
+
+
+<hr/>
