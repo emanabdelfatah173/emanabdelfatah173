@@ -102,9 +102,9 @@ Visualization:
 
 I'm always open to feedback, collaboration, and new opportunities in the data analytics field.
 
-- <div align="center"> <a href="https://www.linkedin.com/in/eman-abd-elfatah-518a18102/" target="_blank" title="LinkedIn"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /> </a> 
-- &nbsp;&nbsp; <code><a href="https://www.novypro.com/profile_projects/emanabdelfatah" target="blank"><img align="center" src="./Images_pre/novyPro-icon.png" alt="novyPro" height="50"/></a> </code>
-- 📫 Reach me: emanabdelfatah73@gmail.com
+ <div align="center"> <a href="https://www.linkedin.com/in/eman-abd-elfatah-518a18102/" target="_blank" title="LinkedIn"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /> </a> 
+ &nbsp;&nbsp; <code><a href="https://www.novypro.com/profile_projects/emanabdelfatah" target="blank"><img align="center" src="./Images_pre/novyPro-icon.png" alt="novyPro" height="50"/></a> </code>
+  &nbsp;&nbsp; <a href="mailto:emanabdelfatah73@gmail.com" target="_blank" title="Gmail"> <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Gmail" width="40" /> </a>
 </div>
 
 ###
