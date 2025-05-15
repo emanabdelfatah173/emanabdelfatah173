@@ -8,12 +8,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22F7F7&center=true&vCenter=true&width=500&lines=Turning+Raw+Data+Into+Gold;Building+Insightful+Dashboards;SQL+%7C+Power+BI+%7C+Python;Data+Visualization+Wizard;Decision+Science+Specialist" alt="Animated Typing" />
 
-
 ###
 
 ###
 - 🔭 I’m currently working on expanding my knowledge in Data Analysis and applying it to real-world projects.<br>
-- 🤔 I’m looking for help with "Next Steps (RoadMap) & Getting a Job"
+- 🤔 I'm looking for an opportunity as a **Data Analyst** or **Business Intelligence Analyst** – preferably in a collaborative, data-driven team.
 - 💬 Ask me about **Data**
 - 📫 How to reach me **emanabdelfatah73@gmail.com**
 
