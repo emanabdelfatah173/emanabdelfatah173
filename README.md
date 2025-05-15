@@ -3,7 +3,10 @@
 
 
 <h1 align="center">Hi there👋, I am Eman Abd ElFatah</h1>
-<h2 align="center"> BI Developer / Data Analyst</h2>
+<h2 align="center">⚡ Data Analyst | 📊 BI Developer | 🧠 Data Alchemist</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22F7F7&center=true&vCenter=true&width=500&lines=Turning+Raw+Data+Into+Gold;Building+Insightful+Dashboards;SQL+%7C+Power+BI+%7C+Python;Data+Visualization+Wizard;Decision+Science+Specialist" alt="Animated Typing" />
 
 
 ###
@@ -66,17 +69,6 @@ Visualization:
 
 #
 
-###
-<h2 align="center">🔗 Connect with me:</h2>
-
-<div align="center">
-  <p align="center"> 
-  <code> <a href="https://www.linkedin.com/in/eman-abd-elfatah-518a18102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a> </code>
-   <code><a href="https://www.novypro.com/profile_projects/emanabdelfatah" target="blank"><img align="center" src="./Images_pre/novyPro-icon.png" alt="novyPro" height="50"/></a> </code>
-   <code><a href="https://wuzzuf.net/me/Eman-AbdElFatahAhmed-eed0b37a80?utm_medium=other&utm_source=referral" target="blank"><img align="center" src="./Images_pre/wuzzuf-log.png" alt="wuzzuf" height="30" width="40" /></a> </code>
-   <code><a href="https://www.hackerrank.com/profile/Emanabdelfatah91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a> </code>
-  </p>
-</div>
 
 ###
 <br>
@@ -106,14 +98,32 @@ Visualization:
 
 <br>
 
+## 🧠 Let's Connect & Collaborate!
+
+I'm always open to feedback, collaboration, and new opportunities in the data analytics field.
+
+- <div align="center"> <a href="https://www.linkedin.com/in/eman-abd-elfatah-518a18102/" target="_blank" title="LinkedIn"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /> </a> 
+- &nbsp;&nbsp; <code><a href="https://www.novypro.com/profile_projects/emanabdelfatah" target="blank"><img align="center" src="./Images_pre/novyPro-icon.png" alt="novyPro" height="50"/></a> </code>
+- 📫 Reach me: emanabdelfatah73@gmail.com
+</div>
+
 ###
 <h2>📊 GitHub Stats: </h2>
 
 ![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanabdelfatah173&show_icons=true&theme=dark&locale=en&layout=compact)
 
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanabdelfatah173&theme=tokyonight" alt="emanabdelfatah173" />
+</div>
+
 ###
 
 <br>
+
+<div>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</div>
+
 
 #### Snake eating My contribution graph :
 
